@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Rashadul Islam</h1>
-<h3 align="center">I am Bangladeshi by birth and completed my study on B.sc in CSE at BUBT</h3>
+<h3 align="center">I am Bangladeshi by birth and studying MSC in CSE at BUP</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
