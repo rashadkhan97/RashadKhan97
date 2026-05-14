@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashadkhan97&label=Profile%20views&color=0e75b6&style=flat" alt="rashadkhan97" /> </p>
 
-- I'm currently working as [Operation Lead](https://www.facebook.com/ESABBUBTUnitFace), and [Former - Joint Creative Designer](https://www.facebook.com/ieeebubtras) and [Former - Digital Marketing Expert](https://www.fiverr.com/rashad_khan)
+- [Former - Operation Lead](https://www.facebook.com/ESABBUBTUnitFace), and [Former - Joint Creative Designer](https://www.facebook.com/ieeebubtras) and [Former - Digital Marketing Expert](https://www.fiverr.com/rashad_khan)
 
 - 🌱 I’m currently learning **Full Stack SDET**
 
