@@ -138,9 +138,7 @@ IEEE RAS BUBT Student Branch Chapter](https://www.facebook.com/ieeebubtras)
 
 Aspiring Software Engineer with hands-on experience in **software development and quality assurance**. I build web applications, test APIs and user interfaces, write automated tests, and use AI-assisted tools to debug code and generate test scenarios.
 
-I'm looking for opportunities across development and software quality as:
-
-**SQA Intern | Junior QA Engineer | QA Engineer | SDET Intern | Junior Software Engineer**
+I'm looking for opportunities across development and software quality as: ** Junior QA Engineer | QA Engineer | SDET Intern | Junior Software Engineer**
 
 ---
 
