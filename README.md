@@ -127,9 +127,10 @@
 
 ## 🏅 Previous Experience
 
-- [Former Operation Lead](https://www.facebook.com/ESABBUBTUnitFace)
-- [Former Innovation Lead](https://www.facebook.com/ESABBUBTUnitFace)
-- [Former Joint Creative Designer](https://www.facebook.com/ieeebubtras)
+- [Former Operation Lead - ESABBUBTUnitFace ](https://www.facebook.com/ESABBUBTUnitFace)
+- [Former Innovation Lead - ESABBUBTUnitFace](https://www.facebook.com/ESABBUBTUnitFace)
+- [Former Joint Creative Designer - 
+IEEE RAS BUBT Student Branch Chapter](https://www.facebook.com/ieeebubtras)
 
 ---
 
