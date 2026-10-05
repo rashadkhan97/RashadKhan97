@@ -69,15 +69,50 @@
 
 ## 🚀 Featured Projects
 
-| Project | Stack | What I did | Repo |
-|---|---|---|---|
-| **DailyFinance Web Automation** | Selenium, TestNG, POM, Gradle | Data-driven tests, Faker, Allure reports | [View&nbsp;repo](https://github.com/rashadkhan97/Selenium-TestNG-Automation-Practice) |
-| **Playwright Test Automation** | Playwright | Modern web UI automation | [View&nbsp;repo](https://github.com/rashadkhan97/Playwright-Learning-B19) |
-| **dMoney API Testing** | Postman, Newman | API tests with Newman reports | [View&nbsp;repo](https://github.com/rashadkhan97/DMoney-REST-API-with-Newman-Report) |
-| **API Integration Testing** | Mocha, Chai, Axios, Node.js | Role flows, fee and commission checks | [View&nbsp;repo](https://github.com/rashadkhan97/API-Integration-Testing-with-Mocha-and-Axios) |
-| **Blog Application REST API** | Node.js, Express, MySQL, JWT | REST API with Guest / User / Admin roles | [View&nbsp;repo](https://github.com/rashadkhan97/Blog-Application-REST-API-Development) |
-| **Blog Site Frontend** | Next.js, Tailwind CSS | Frontend for the blog application | [View&nbsp;repo](https://github.com/rashadkhan97/blogsite-using-NextJS-and-Tailwind) |
-
+<table width="100%">
+  <tr>
+    <th width="24%">Project</th>
+    <th width="22%">Stack</th>
+    <th width="38%">What I did</th>
+    <th width="16%">Repo</th>
+  </tr>
+  <tr>
+    <td><b>DailyFinance Web Automation</b></td>
+    <td>Selenium, TestNG, POM, Gradle</td>
+    <td>Data-driven tests, Faker data, JSON/CSV data, smoke &amp; regression, Allure reports</td>
+    <td><a href="https://github.com/rashadkhan97/Selenium-TestNG-Automation-Practice">View&nbsp;repo</a></td>
+  </tr>
+  <tr>
+    <td><b>Playwright Test Automation</b></td>
+    <td>Playwright</td>
+    <td>Modern web UI automation</td>
+    <td><a href="https://github.com/rashadkhan97/Playwright-Learning-B19">View&nbsp;repo</a></td>
+  </tr>
+  <tr>
+    <td><b>dMoney API Testing</b></td>
+    <td>Postman, Newman</td>
+    <td>REST API test automation with Newman reports</td>
+    <td><a href="https://github.com/rashadkhan97/DMoney-REST-API-with-Newman-Report">View&nbsp;repo</a></td>
+  </tr>
+  <tr>
+    <td><b>API Integration Testing</b></td>
+    <td>Mocha, Chai, Axios, Node.js</td>
+    <td>Admin, agent, customer and merchant flows, fee and commission validation</td>
+    <td><a href="https://github.com/rashadkhan97/API-Integration-Testing-with-Mocha-and-Axios">View&nbsp;repo</a></td>
+  </tr>
+  <tr>
+    <td><b>Blog Application REST API</b></td>
+    <td>Node.js, Express, MySQL, JWT</td>
+    <td>REST API with role-based access (Guest / User / Admin)</td>
+    <td><a href="https://github.com/rashadkhan97/Blog-Application-REST-API-Development">View&nbsp;repo</a></td>
+  </tr>
+  <tr>
+    <td><b>Blog Site Frontend</b></td>
+    <td>Next.js, Tailwind CSS</td>
+    <td>Frontend for the blog application</td>
+    <td><a href="https://github.com/rashadkhan97/blogsite-using-NextJS-and-Tailwind">View&nbsp;repo</a></td>
+  </tr>
+</table>
 ---
 
 ## 🏆 Achievements
