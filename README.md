@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Rashadul Islam</h1>
-<h3 align="center">Trainee SQA Engineer | M.Sc. in CSE @ BUP | SQA & Test Automation | Dhaka, Bangladesh 🇧🇩</h3>
+<h3 align="center">Trainee SQA Engineer | Aspiring Software Engineer | M.Sc. in CSE @ BUP | Dhaka, Bangladesh 🇧🇩</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rashadkhan97&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -69,16 +69,14 @@
 
 ## 🚀 Featured Projects
 
-| Project | Stack | What I did |
-|---|---|---|
-| **DailyFinance Web Automation** | Selenium, TestNG, POM, Gradle | Data-driven tests, Faker data, JSON/CSV data, smoke & regression, Allure reports |
-| **dMoney API Testing** | Postman, Newman, Mocha, Chai, Axios | Admin, agent, customer and merchant flows, fee and commission validation |
-| **Playwright Test Automation** | Playwright | Modern web UI automation |
-| **API Development** | Node.js, Express, MySQL, JWT | Blog REST API with role-based access (Guest / User / Admin) |
-| **EasyPay Manual / Cross-Platform Testing** | Manual | Test cases, bug reports, cross-platform checks |
-| **Smart Air Quality Monitoring & Health Risk Prediction** | IoT + ML | MCSE project |
-
-> 🔗 Add repo links in each row, e.g. `[DailyFinance Web Automation](your-repo-link)`
+| Project | Stack | What I did | Repo |
+|---|---|---|---|
+| **DailyFinance Web Automation** | Selenium, TestNG, POM, Gradle | Data-driven tests, Faker data, JSON/CSV data, smoke & regression, Allure reports | [View repo](https://github.com/rashadkhan97/Selenium-TestNG-Automation-Practice) |
+| **Playwright Test Automation** | Playwright | Modern web UI automation | [View repo](https://github.com/rashadkhan97/Playwright-Learning-B19) |
+| **dMoney API Testing** | Postman, Newman | REST API test automation with Newman reports | [View repo](https://github.com/rashadkhan97/DMoney-REST-API-with-Newman-Report) |
+| **API Integration Testing** | Mocha, Chai, Axios, Node.js | Admin, agent, customer and merchant flows, fee and commission validation | [View repo](https://github.com/rashadkhan97/API-Integration-Testing-with-Mocha-and-Axios) |
+| **Blog Application REST API** | Node.js, Express, MySQL, JWT | REST API with role-based access (Guest / User / Admin) | [View repo](https://github.com/rashadkhan97/Blog-Application-REST-API-Development) |
+| **Blog Site Frontend** | Next.js, Tailwind CSS | Frontend for the blog application | [View repo](https://github.com/rashadkhan97/blogsite-using-NextJS-and-Tailwind) |
 
 ---
 
@@ -94,15 +92,18 @@
 ## 🏅 Previous Experience
 
 - [Former Operation Lead](https://www.facebook.com/ESABBUBTUnitFace)
+- [Former Innovation Lead](https://www.facebook.com/ESABBUBTUnitFace)
 - [Former Joint Creative Designer](https://www.facebook.com/ieeebubtras)
-- [Former Digital Marketing Expert](https://www.fiverr.com/rashad_khan)
 
 ---
 
 ## 🎯 Career Goal
 
-Looking for opportunities as **SQA Intern | Junior QA Engineer | QA Engineer | SDET Intern**.
-My goal is to build strong expertise in **software testing and test automation** and help deliver reliable, high-quality software.
+Aspiring Software Engineer with hands-on experience in **software development and quality assurance**. I build web applications, test APIs and user interfaces, write automated tests, and use AI-assisted tools to debug code and generate test scenarios.
+
+I'm looking for opportunities across development and software quality as:
+
+**SQA Intern | Junior QA Engineer | QA Engineer | SDET Intern | Junior Software Engineer**
 
 ---
 
@@ -119,13 +120,21 @@ My goal is to build strong expertise in **software testing and test automation**
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashadkhan97&show_icons=true&locale=en" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashadkhan97&layout=compact&locale=en" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashadkhan97" alt="GitHub Streak"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=rashadkhan97&show_icons=true&locale=en&line_height=20&card_width=450" alt="GitHub Stats"/>
+    </td>
+    <td align="center" valign="middle">
+      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashadkhan97&layout=compact&langs_count=6&card_width=350" alt="Top Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashadkhan97" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
