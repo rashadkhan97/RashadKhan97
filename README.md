@@ -71,12 +71,12 @@
 
 | Project | Stack | What I did | Repo |
 |---|---|---|---|
-| **DailyFinance Web Automation** | Selenium, TestNG, POM, Gradle | Data-driven tests, Faker data, JSON/CSV data, smoke & regression, Allure reports | [View repo](https://github.com/rashadkhan97/Selenium-TestNG-Automation-Practice) |
-| **Playwright Test Automation** | Playwright | Modern web UI automation | [View repo](https://github.com/rashadkhan97/Playwright-Learning-B19) |
-| **dMoney API Testing** | Postman, Newman | REST API test automation with Newman reports | [View repo](https://github.com/rashadkhan97/DMoney-REST-API-with-Newman-Report) |
-| **API Integration Testing** | Mocha, Chai, Axios, Node.js | Admin, agent, customer and merchant flows, fee and commission validation | [View repo](https://github.com/rashadkhan97/API-Integration-Testing-with-Mocha-and-Axios) |
-| **Blog Application REST API** | Node.js, Express, MySQL, JWT | REST API with role-based access (Guest / User / Admin) | [View repo](https://github.com/rashadkhan97/Blog-Application-REST-API-Development) |
-| **Blog Site Frontend** | Next.js, Tailwind CSS | Frontend for the blog application | [View repo](https://github.com/rashadkhan97/blogsite-using-NextJS-and-Tailwind) |
+| **DailyFinance Web Automation** | Selenium, TestNG, POM, Gradle | Data-driven tests, Faker, Allure reports | [View&nbsp;repo](https://github.com/rashadkhan97/Selenium-TestNG-Automation-Practice) |
+| **Playwright Test Automation** | Playwright | Modern web UI automation | [View&nbsp;repo](https://github.com/rashadkhan97/Playwright-Learning-B19) |
+| **dMoney API Testing** | Postman, Newman | API tests with Newman reports | [View&nbsp;repo](https://github.com/rashadkhan97/DMoney-REST-API-with-Newman-Report) |
+| **API Integration Testing** | Mocha, Chai, Axios, Node.js | Role flows, fee and commission checks | [View&nbsp;repo](https://github.com/rashadkhan97/API-Integration-Testing-with-Mocha-and-Axios) |
+| **Blog Application REST API** | Node.js, Express, MySQL, JWT | REST API with Guest / User / Admin roles | [View&nbsp;repo](https://github.com/rashadkhan97/Blog-Application-REST-API-Development) |
+| **Blog Site Frontend** | Next.js, Tailwind CSS | Frontend for the blog application | [View&nbsp;repo](https://github.com/rashadkhan97/blogsite-using-NextJS-and-Tailwind) |
 
 ---
 
