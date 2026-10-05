@@ -113,6 +113,7 @@
     <td><a href="https://github.com/rashadkhan97/blogsite-using-NextJS-and-Tailwind">View&nbsp;repo</a></td>
   </tr>
 </table>
+
 ---
 
 ## 🏆 Achievements
